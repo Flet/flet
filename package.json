@@ -1,0 +1,41 @@
+{
+  "name": "flet",
+  "description": "A fun digital business card for Dan Flettre",
+  "version": "1.0.0",
+  "author": "Dan Flettre <flettre@gmail.com>",
+  "bin": {
+    "flet": "./bin.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Flet/flet/issues"
+  },
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1",
+    "gradient-string": "^1.2.0",
+    "widest-line": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "*"
+  },
+  "homepage": "https://github.com/Flet/flet",
+  "keywords": [
+    "Dan",
+    "Flet",
+    "Flettre",
+    "business",
+    "card",
+    "chalk",
+    "digital",
+    "fun"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Flet/flet.git"
+  },
+  "scripts": {
+    "test": "standard"
+  }
+}
