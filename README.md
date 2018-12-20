@@ -1,6 +1,8 @@
 # flet
 
-A fun digital business card for Dan Flettre
+A fun digital business card!
+
+Inspired by [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919552)
 
 [![npm][npm-image]][npm-url]
 [![standard][standard-image]][standard-url]
