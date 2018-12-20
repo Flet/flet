@@ -1,9 +1,4 @@
 # flet
-
-A fun digital business card!
-
-Inspired by [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919552)
-
 [![npm][npm-image]][npm-url]
 [![standard][standard-image]][standard-url]
 
@@ -12,6 +7,10 @@ Inspired by [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: http://npm.im/standard
 
+
+A fun digital business card!
+
+Inspired by [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919552)
 
 ## Usage
 On a machine with node installed:
